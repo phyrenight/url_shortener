@@ -1,2 +1,2 @@
-# url_shortener
+# Url Shortener
 A website used to shorten a url
